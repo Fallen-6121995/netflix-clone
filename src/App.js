@@ -3,7 +3,7 @@ import "./App.css";
 import HomeScreen from "./components/HomeScreen/HomeScreen";
 
 function App() {
-  console.log(process.env.REACT_APP_API_KEY);
+  console.log("new auto build test");
   return (
     <div className="App">
       <HomeScreen />
